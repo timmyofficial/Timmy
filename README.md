@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working On OpenCore MacOS Sonoma, High Sierra on a Toshiba C850<br>I know Python and lua currently
+Im currently working On Nothing<br>I know Python and lua currently
 
 
 ## 🌐 Socials:
